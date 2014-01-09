@@ -1,2 +1,2 @@
 <?php
-echo "mod calc order !!!";
+echo "mod calc payment !!!";
